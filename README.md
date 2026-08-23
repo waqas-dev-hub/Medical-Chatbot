@@ -33,9 +33,8 @@ cd Medical-Chatbot
 ### 2. Create a virtual environment
 
 ```bash
-python -m venv venv
-venv\Scripts\activate        # Windows
-# source venv/bin/activate   # macOS/Linux
+conda create -p venv python==3.11 -y
+conda activate venv/
 ```
 
 ### 3. Install dependencies
@@ -128,4 +127,3 @@ Medical-Chatbot/
 └── vectorstore/              # FAISS index (auto-generated)
 ```
 
-## License
