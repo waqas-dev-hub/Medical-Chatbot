@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# FAISS vectorstore (large binary files, regenerate with create_memory_for_llm.py)
+vectorstore/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
