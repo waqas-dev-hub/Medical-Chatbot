@@ -1,3 +1,5 @@
+HELLO EVERYONE, MYSELF ABU WAQAS, I HAVE MADE THIS RAG PROJECT.DETAILS REGARDING PROJECT ARE GIVEN BELOW:
+
 # 🩺 MediBot — AI Medical Chatbot
 
 An AI-powered medical chatbot that answers health-related questions using **Retrieval-Augmented Generation (RAG)**. It retrieves relevant information from medical PDFs and generates accurate responses using a large language model.
@@ -127,5 +129,3 @@ Medical-Chatbot/
 ```
 
 ## License
-
-This project is for educational purposes.
